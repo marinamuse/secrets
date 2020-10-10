@@ -1,0 +1,3 @@
+Facebook OAuth:
+App ID 1263424930701789
+App Secret cf33e63bb46f605b01e7665dc70616cf
